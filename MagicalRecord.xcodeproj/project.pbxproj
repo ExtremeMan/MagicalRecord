@@ -1206,7 +1206,7 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = "";
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 0800;
 				ORGANIZATIONNAME = "Magical Panda Software LLC";
 				TargetAttributes = {
 					9053F55919E0244C00137362 = {
